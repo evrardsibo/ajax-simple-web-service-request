@@ -9,12 +9,31 @@ body {
   background-size: cover;
 }
 
-.container {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+body h1 {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 35px;
+  color: #000000;
+  font-weight: 700;
+  font-style: italic;
+  font-variant: small-caps;
+  text-transform: uppercase;
+}
+
+body img {
+  border: 2px solid rgba(28, 110, 164, 0.39);
+  border-radius: 50px;
+  margin-left: 400px;
+}
+
+body p {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 35px;
+  color: #000000;
+  font-weight: 700;
+  font-style: italic;
+  font-variant: small-caps;
+  text-transform: uppercase;
 }
 /*# sourceMappingURL=style.css.map */
