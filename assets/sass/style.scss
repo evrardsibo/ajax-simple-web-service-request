@@ -21,7 +21,8 @@ body{
     img{
         border: 2px solid rgba(28,110,164,0.39);
         border-radius: 50px;
-        margin-left: 400px;
+        margin-left: 150px;
+        
     }
 
     p{
@@ -41,5 +42,8 @@ body{
         padding-left: 30px;
         border-left: solid 3px #99CCFF ;
         border-radius: 5px;
+    }
+    .row{
+        justify-content: center;
     }
 }

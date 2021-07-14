@@ -23,7 +23,7 @@ body h1 {
 body img {
   border: 2px solid rgba(28, 110, 164, 0.39);
   border-radius: 50px;
-  margin-left: 400px;
+  margin-left: 150px;
 }
 
 body p {
@@ -44,5 +44,11 @@ body blockquote {
   padding-left: 30px;
   border-left: solid 3px #99CCFF;
   border-radius: 5px;
+}
+
+body .row {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 /*# sourceMappingURL=style.css.map */
